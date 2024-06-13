@@ -18,6 +18,7 @@ useEffect(()=> {
        <div className="home">
         <h1>Welcome to our Archives</h1>
         <p class="Homebody">{text}</p>
+        <img src="DcHome.jpg" alt="Picture of Dc" width="3472" height="4624"></img>
        </div>
            
       );

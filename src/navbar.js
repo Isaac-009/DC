@@ -5,6 +5,7 @@ function Navbar() {
         <nav className="navbar">
         <h2>Everything DC</h2>
         <div className="navlinks">
+        
         <Link to="/">Home</Link>
         <Link to="/photos">Photos</Link>
         <Link to="/poems">Poems</Link>
